@@ -34,12 +34,9 @@ Rust is designed to be a safe language, meaning it prevents many common bugs tha
        ```
        - Compile and run the program:
        ```sh
-              rustc main.rs
-              ./main
-              
-       ```
-       
-
+       rustc main.rs
+       ./main              
+       ```    
 ### 3. **Advanced Topics**
 
 Once you're comfortable with the basics, you can explore more advanced topics:
